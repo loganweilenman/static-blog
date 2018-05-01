@@ -1,2 +1,12 @@
 # MDIT Design Center Blog
 
+## local dev
+
+```
+npm install
+node index.js
+
+cd client
+npm install
+gatsby develop
+```
